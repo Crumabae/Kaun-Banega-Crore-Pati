@@ -1,0 +1,54 @@
+body{
+	font-family: sans-serif;
+	background-color: black;
+}
+div{
+	background-color: indigo;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	padding: 20px;
+	border: 2px solid gold;
+}
+p{
+	color: white;
+	background-color: indigo;
+	font-size: 20px;
+	padding: 5px;
+	border: 2px solid gold;
+	padding: 5px;
+	margin: 10px solid gold;
+	text-align: center;
+}
+h2{
+	background-color: indigo;
+	color: white;
+	margin: 10px solid gold;
+	padding: 5px;
+	border: 2px solid gold;
+	text-align: center;
+}
+button{
+	background-color: indigo;
+	color: white;
+	margin: 10px solid gold;
+	padding: 5px;
+	border: 2px solid gold;
+	width: 49%;
+	
+}
+footer{
+	text-align: center;
+}
+fieldset{
+	text-align: center;
+}
+#pst{
+	text-align: left;
+	color: white;
+
+}
+#ast{
+	width: 57%;
+}
+
